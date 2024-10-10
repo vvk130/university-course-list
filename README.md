@@ -13,6 +13,7 @@
 | ITKP1010 Basics of Digital Competence | (3 ECTS)   |
 | ITKP1011 Web Publishing             | (2 ECTS)     |
 | ITKP104 Computer Networks           | (5 ECTS)     |
+| Databases | (5 ETCS)|
 
 # Other courses
 | Course Name                        | ECTS         |
