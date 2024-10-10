@@ -16,8 +16,20 @@
 
 # Other courses
 | Course Name                        | ECTS         |
+|-------------------------------------|--------------|
 | Lean Startups | (5 ETCS) |
+| Software Architecture                 | (5 ECTS)     |
+| Continuous Software Development       | (5 ECTS)     |
+| Software Testing                      | (5 ECTS)     |
+| Designing for Life                    | (2 ECTS)     |
+| Digital World and Safety             | (5 ECTS)     |
+| Design of Everyday Things             | (2 ECTS)     |
+| Hybrid Threats and Security       | (5 ECTS)     |
+| Web and Usability                     | (3 ECTS)     |
 
 # Ongoing courses
 | Course Name                        | ECTS         |
-|
+|-------------------------------------|--------------|
+| Master Thesis                         | (30 ECTS)    |
+| GraphQL                               | (1 ECTS)     |
+| Fullstack Open                        | (5 ECTS)     |
