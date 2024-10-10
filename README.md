@@ -4,6 +4,7 @@
 
 | Course Name                        | ECTS         |
 |-------------------------------------|--------------|
+| Programming I                      | (5 ECTS)     |
 | Programming II                      | (5 ECTS)     |
 | Algorithms I                        | (4 ECTS)     |
 | Algorithms II                       | (4 ECTS)     |
