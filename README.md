@@ -27,6 +27,9 @@
 | Design of Everyday Things             | (2 ECTS)     |
 | Hybrid Threats and Security       | (5 ECTS)     |
 | Web and Usability                     | (3 ECTS)     |
+| Master's Thesis Seminar                                | (3 ECTS)     |
+| Research Methods in Information Technology        | (3 ECTS)     |
+| Planning Your University Studies                   | (2 ECTS)     |
 
 # Ongoing courses
 | Course Name                        | ECTS         |
